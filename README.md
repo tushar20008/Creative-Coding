@@ -1,5 +1,5 @@
 # Creative-Coding
-Use Processing to create aesthetic or ambient sketche, time-based media, physical simulation or generative art.
+Use Processing to create aesthetic or ambient sketch, time-based media, physical simulation or generative art.
 
 Techniques Used :
 - Pixel Manipulation
